@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Start Learning JavaScript
 date: 2021-09-01
 labels:
   - Software Engineering
