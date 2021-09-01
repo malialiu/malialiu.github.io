@@ -29,17 +29,7 @@
   },
   "interests": [
     {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
+      "name": "internet of things",
       "keywords": [
       ]
     }
@@ -52,29 +42,24 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-01-11",
       "endDate": "Present",
       "gpa": "",
       "courses": [
