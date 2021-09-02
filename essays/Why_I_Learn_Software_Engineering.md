@@ -13,7 +13,7 @@ I didn't know what is software engineering when I was a kid. As time passed, peo
 
 
 ## What I Know at the Beginning About Software Engineering
-
+<img class="ui small image" src="/images/images.jpg">
 
 Software engineering includes many aspects like hardware/software selection, database management, human-computer interaction, and a lot of technical aspects. As I going through many technical aspects that software engineering covers, I'm interested in database management, computer vision, and human-computer interaction. Database management is to organize data, especially large amounts of data since more and more people are using a computer to save their works. Human-computer interaction studies the relationship between user and computer system. The computer system can be various machines. Computer vision is using a machine instead of human eyes to detect things.
 
