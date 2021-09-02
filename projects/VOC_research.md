@@ -17,10 +17,10 @@ The focus of this research is to measure the TVOC level in several types of indo
 <img src="/images/setting.png" data-canonical-src="/images/setting.png" width="300" height="300" />
 <img src="/images/sensor.png" data-canonical-src="/images/sensor.png" width="300" height="300" />
 ### Measurement Procedure:
-1. Assemble hardware components, load Arduino code.
-2. Power on the sensor. Wait 5 - 10 minutes for calibration.
-3. Place sensor 1.5 feet from the center of the housework area.
-4. Record data for duration of 7 minutes.
+  1. Assemble hardware components, load Arduino code. <br/>
+  2. Power on the sensor. Wait 5 - 10 minutes for calibration. <br/>
+  3. Place sensor 1.5 feet from the center of the housework area. <br/>
+  4. Record data for duration of 7 minutes.
 ## Result
   Cleaning the kitchen floor: Many cleaning products contain sodium hypochlorite. It can react with soap and produce the volatile organic compound.<br/> 
   Wiping fan blades: Isopropyl alcohol is a volatile organic compound, which is commonly use in the cleaning product.<br/>
