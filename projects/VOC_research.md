@@ -20,10 +20,17 @@ The focus of this research is to measure the TVOC level in several types of indo
 3. Place sensor 1.5 feet from the center of the housework area.
 4. Record data for duration of 7 minutes.
 ## Result
-  Cleaning the kitchen floor: Many cleaning products contain sodium hypochlorite. It can react with soap and produce the volatile organic compound. 
-  Wiping fan blades: Isopropyl alcohol is a volatile organic compound, which is commonly use in the cleaning product.
-  Washing dishes: Methylisothiazolinone is a volatile organic compound, which is commonly use as a preservative in the cleaning products.
+  Cleaning the kitchen floor: Many cleaning products contain sodium hypochlorite. It can react with soap and produce the volatile organic compound.<br/> 
+  Wiping fan blades: Isopropyl alcohol is a volatile organic compound, which is commonly use in the cleaning product.<br/>
+  Washing dishes: Methylisothiazolinone is a volatile organic compound, which is commonly use as a preservative in the cleaning products.<br/>
   Cooking noodle: Palmitic acid in palm oil might produce VOC by reacting with the air. 
 
 ## Conclusion
 All four housework activities involved an increase in the TVOC level in the air. Surprisingly, Washing dishes had the highest TVOC level. Cooking noodles and cleaning the kitchen floor with bleach, have lower TVOC levels. Doing housework with a ventilation system (i.e., a window open) is shown to reduce the TVOC level in all 4 cases tested.
+
+## References
+Gonzalez. M., Celis, A., Guevara-Suarez. M., Molina. J., and Carazzone. C. (2019, February 24). Yeast Smell Like What They Eat: Analysis of Volatile Organic Compounds of Malassezia furfur in Growth Media Supplemented with Different Lipids. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6384859/ <br/>
+Odabasi M. (2008, March 1). Halogenated Volatile Organic Compounds From the Use of Chlorine-Bleach-Containing Household Products. National Center for Biotechnology Information. https://pubmed.ncbi.nlm.nih.gov/18441786/ <br/>
+Volatile organic compounds. (n.d.). United States Environmental Protection Agency. https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/search.do?details=displayDetails&selectedSubstanceId=83723#
+
+
