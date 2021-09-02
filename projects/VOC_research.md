@@ -10,7 +10,7 @@ labels:
 summary: research VOC concentration level from daliy housework
 ---
 ## Introduction
-Volatilr Organic Compounds (VOCs) are a grouping of carbon-based chemicals that contribute to poor air-quality indoors. The short term effects for that could be skin/eye irritation, breathing issues, and headache. The long term effects could be cancer. Industrial and public workplaces are required to monitor TVOC levels, but private homes are not. 
+Volatile Organic Compounds (VOCs) are a grouping of carbon-based chemicals that contribute to poor air-quality indoors. The short term effects for that could be skin/eye irritation, breathing issues, and headache. The long term effects could be cancer. Industrial and public workplaces are required to monitor TVOC levels, but private homes are not. 
 ## Objective
 The focus of this research is to measure the TVOC level in several types of indoor household activities. The hypothesis is that people can affect the indoor air quality by doing housework with chemicals involved because it can raise the volatile organic compound concentration level. The housework being tested in this research is cooking noodles, cleaning the kitchen floor with bleach, washing dishes, and wiping fan blades.
 ## Materials and Methods
