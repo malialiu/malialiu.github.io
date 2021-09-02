@@ -42,6 +42,6 @@ int search(int array[], int number)
     return -1;
 }
 ```
-That's why sometimes the lines written in Javascript will be less than Java and C when solving a same problem. Javascript is a good language in general because it is an efficient and fast language for web development. 
+As above, we can see that Java and C consider more about the parameters which JavaScript does not. That's why sometimes the lines written in Javascript will be less than Java and C when solving a same problem. Javascript is a good language in general because it is an efficient and fast language for web development. 
 ## The Way I Practicing JavaScript
 Doing more practice for learning a new computer language is helpful. A pedagogy called athletic software engineering is useful to do more practice in computer language, it let student complete tasks in limited time. It is stressful, but it also makes efficient coding speed and problem-solving for the future. 
