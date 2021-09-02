@@ -14,6 +14,8 @@ Volatile Organic Compounds (VOCs) are a grouping of carbon-based chemicals that 
 ## Objective
 The focus of this research is to measure the TVOC level in several types of indoor household activities. The hypothesis is that people can affect the indoor air quality by doing housework with chemicals involved because it can raise the volatile organic compound concentration level. The housework being tested in this research is cooking noodles, cleaning the kitchen floor with bleach, washing dishes, and wiping fan blades.
 ## Materials and Methods
+<img src="/images/setting.png" data-canonical-src="/images/setting.png" width="300" height="300" />
+<img src="/images/sensor.png" data-canonical-src="/images/sensor.png" width="300" height="300" />
 ### Measurement Procedure:
 1. Assemble hardware components, load Arduino code.
 2. Power on the sensor. Wait 5 - 10 minutes for calibration.
