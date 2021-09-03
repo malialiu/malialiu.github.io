@@ -20,4 +20,6 @@ In the user interface, user can enter any letter within the option to execute th
 "delete" this will search the record with the account number user entered to delete it. <br/>
 "quit" leave the database and all the records will be store in txt file. <br/>
   
+  Concepts of C language involve in this project are allocate/deallocate memory, read/write file, and single-linked list. <br/>
+  
 Source files: https://github.com/malialiu/database.github.io.git
