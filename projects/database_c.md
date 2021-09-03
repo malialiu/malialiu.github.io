@@ -30,8 +30,9 @@ In the user interface, user can enter any letter within the option to execute th
   free(pointer);
  }
  ```
- <br/>
- read/write txt file  <br/>
+ 
+ <br/> read/write txt file  <br/>
+ 
  ```
  {
  FILE *fptr; // getting a pointer for a file
