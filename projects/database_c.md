@@ -21,5 +21,24 @@ In the user interface, user can enter any letter within the option to execute th
 "quit" leave the database and all the records will be store in txt file. <br/>
   
   Concepts of C language involve in this project are allocate/deallocate memory, read/write file, and single-linked list. <br/>
+ Allocate/deallocate memory by using the method malloc() to allocate the spaces for the datatype, and using free() method to release the spaces we allocated. <br/>
+ ```
+ {
+  // pointer = (datatype)malloc(size) Example below:
+  pointer = (int*)malloc(sizeof(int));
+  // free(pointer) Example below:
+  free(pointer);
+ }
+ ```
+ <br/>
+ read/write txt file  <br/>
+ ```
+ {
+ FILE *fptr; // getting a pointer for a file
+ fopen("data.txt","w"); // write the filename if in the same directory, and w states that file open to writing mode
+ fopen("data.txt", "r") // write the filename if in the same directory, and w states that file open to reading mode
+ fclose(fptr); // close file after make changes 
+ }
+ ```
   
 Source files: https://github.com/malialiu/database.github.io.git
