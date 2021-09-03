@@ -7,7 +7,7 @@ date: 2021-09-02
 labels:
   - Chemistry
   - Arduino
-summary: research VOC concentration level from daliy housework
+summary: Research on VOC concentration level from daliy housework
 ---
 ## Introduction
 Volatile Organic Compounds (VOCs) are a grouping of carbon-based chemicals that contribute to poor air-quality indoors. The short term effects for that could be skin/eye irritation, breathing issues, and headache. The long term effects could be cancer. Industrial and public workplaces are required to monitor TVOC levels, but private homes are not. 
