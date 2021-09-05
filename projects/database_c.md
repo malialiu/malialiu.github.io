@@ -10,7 +10,7 @@ labels:
 summary: Database build in C with insert, delete, change, and search methods.
 ---
 </div>
-<img src="/images/database.png" data-canonical-src="/images/database.png"  height="400" />
+<img src="/images/database.png" data-canonical-src="/images/database.png" width="800" height="400" />
 </div>
 
   This project is to build a database with add, print, find, and delete informations in a txt file. <br/>
