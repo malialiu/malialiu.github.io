@@ -9,9 +9,9 @@ labels:
   - Learning
 summary: Database build in C with insert, delete, change, and search methods.
 ---
-</div>
+
 <img src="/images/database.png" data-canonical-src="/images/database.png" width="800" height="400" />
-</div>
+
 
   This project is to build a database with add, print, find, and delete informations in a txt file. <br/>
 In the user interface, user can enter any letter within the option to execute the method except <quit> method. For example <add>, enter 'a' will allow user to go in the add method. <br/>
