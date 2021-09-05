@@ -14,21 +14,20 @@ Volatile Organic Compounds (VOCs) are a grouping of carbon-based chemicals that 
 ## Objective
 The focus of this research is to measure the TVOC level in several types of indoor household activities. The hypothesis is that people can affect the indoor air quality by doing housework with chemicals involved because it can raise the volatile organic compound concentration level. The housework being tested in this research is cooking noodles, cleaning the kitchen floor with bleach, washing dishes, and wiping fan blades.
 ## Materials and Methods
-</div>
 <img src="/images/setting.png" data-canonical-src="/images/setting.png"  height="400" />
 <img src="/images/sensor.png" data-canonical-src="/images/sensor.png"  height="400" />
-</div>
+
 
 ### Measurement Procedure: 
   1. Assemble hardware components, load Arduino code. 
   2. Power on the sensor. Wait 5 - 10 minutes for calibration. 
   3. Place sensor 1.5 feet from the center of the housework area. 
   4. Record data for duration of 7 minutes.
+
 ## Result
-</div>
 <img src="/images/chart.png" data-canonical-src="/images/chart.png"  height="400" />
-<img src="/images/table.png" data-canonical-src="/images/table.png"  height="400" />
-</div>
+<img src="/images/table.png" data-canonical-src="/images/table.png" width="800" height="400" />
+
   Cleaning the kitchen floor: Many cleaning products contain sodium hypochlorite. It can react with soap and produce the volatile organic compound.<br/> 
   Wiping fan blades: Isopropyl alcohol is a volatile organic compound, which is commonly use in the cleaning product.<br/>
   Washing dishes: Methylisothiazolinone is a volatile organic compound, which is commonly use as a preservative in the cleaning products.<br/>
