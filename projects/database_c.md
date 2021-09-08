@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Develop Simple Database System in C
-images: /images/base.png
+image: /images/base.png
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
 labels:
