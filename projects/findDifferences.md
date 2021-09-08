@@ -58,4 +58,5 @@ static void findingGame(JFrame frame, JPanel panel, JFrame correct)
 
 Once the program execute, a method called findingGame creates a JFrame called Finding Game. Then, it created a JPanel and add the multiple JButton (which will be the letters on the screen) created by for loop to JPanel. Set an integer called key, once the for loop for created the buttons equal to the random number, the unique letter button will create. Every Jbutton will has a Mouse Listener, when user click on those buttons, it will pop out a window said either "Sorry, please try again" or "Good job! Please try a new one". After that we add the JPanel to JFrame and set JFrame visible.
 
+[Source file](https://github.com/malialiu/findingGame/blob/620e9abd793b03e99913c683e029ef55875f704a/game.java)
 
