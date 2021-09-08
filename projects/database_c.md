@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: Develop Simple Database System in C
+images: https://github.com/malialiu/malialiu.github.io/blob/9ac24e263dcf1a3e39443862edbbace845a184a4/images/base.png
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
 labels:
