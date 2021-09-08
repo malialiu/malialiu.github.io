@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/base1.jpg
+image: ./images/base1.jpg
 title: Develop Simple Database System in C
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
@@ -43,4 +43,4 @@ In the user interface, user can enter any letter within the option to execute th
  }
  ```
   
-[Source files].(https://github.com/malialiu/database.github.io.git)
+Source files(https://github.com/malialiu/database.github.io)
