@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: images/VOC.jpg
 title: Quantification of the Volatile Organic Compounds (VOCs) in Daily Housework
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
