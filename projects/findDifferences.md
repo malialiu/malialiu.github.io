@@ -10,7 +10,7 @@ labels:
   - Swing
 summary: A game to find unique letter in many letters.
 ---
-<img src="/images/find1.png" data-canonical-src="/images/find1.png"  height="400" />
+<img src="/images/find1.png" data-canonical-src="/images/find1.png"  height="400" /> <br/>
 This game to find the unique letter in many letters. Once the user click on a letter that's not unique,  the position of the unique letter is still the same, a window said "Sorry, please try again" will pop up. Once the user click on the unqiue letter, it will automatically change the postion of the letter to a different position.
 
 ```
