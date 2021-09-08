@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/base1.png
+image: images/base1.png
 title: Develop Simple Database System in C
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
