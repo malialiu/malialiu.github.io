@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/base.png
-title: Micromouse
+title: Find Unique Letter
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-08
