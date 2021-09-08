@@ -1,9 +1,8 @@
 ---
 layout: project
 type: project
-image: images/base.png
+image: images/find.png
 title: Find Unique Letter
-permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-08
 labels:
