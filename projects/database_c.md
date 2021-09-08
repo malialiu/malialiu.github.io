@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/malialiu/malialiu.github.io/blob/e099ac802361a93b8090ddc4a28bfd4a8073f038/images/base1.png
+image: /images/base1.jpg
 title: Develop Simple Database System in C
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
