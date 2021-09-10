@@ -12,7 +12,7 @@ Since the internet development rapidly, many people will communicate online incl
 ## [What Is a "Smart" Question](https://stackoverflow.com/help/how-to-ask)
 Before asking a question, we should think like people only have limited time to look at our question, so the title of the question we posted should include the specific summarize question. If possible, try search online to find if there is anyone who have a similiar question with you, check on their solutions, try to solve it by yourself before asking question. If no relevant solutions online, we could write our specific question with part of the code that directly relates to the questions. Also, we should includes all relevant tags and respond those people who answer our question. Check all the words and code before post a question. 
 
-## Question Example
+## Question Examples
   Question: ["Why does my scanf while loop not exit when consuming newline characters?"](https://stackoverflow.com/questions/36105160/why-does-my-scanf-while-loop-not-exit-when-consuming-newline-characters) <br/>
 
 "This successfully prints all the files. However, the loop never exits. If I take away scanf("%*c"), it does exit, but only the first filename is printed. I would expect the consuming of the newline character will prepare the outer scanf to scan the next filename, which is what it seems to be doing. But after the final filename is scanned, I expect the nested scanf to not scan anything. Then the outer scanf to not scan anything either. And the while loop exits." <br/>
