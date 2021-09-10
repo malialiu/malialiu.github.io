@@ -31,6 +31,6 @@ while (scanf("%[^\n]s", someCharArray) > 0) {
 
 This person did try to solve this question before asking a question, posted the specific code that he/she had a question on which will be while loop doesn't stopped as what it suppose to scanned all the filename. He/she described what he/she tried to what should this code achieved, which will be take off the scanf("%*c") here. Also this person added the relevant tags and respond the answers. <br/>
 
-
+<img src="/images/de623701af7d77085fdae2cb1798fa4.png" data-canonical-src="/images/de623701af7d77085fdae2cb1798fa4.png"  height="400" />
   Question: [Implementing swing in jdk 1.8 using eclipse](https://stackoverflow.com/questions/30748998/implementing-swing-in-jdk-1-8-using-eclipse) <br/>
 This person posted the specific error that came out from he/she's code, but there is not much informations on the question, so it makes some confusions to people when they try to answer this question. And this person added the relevant tags and respond the answers. However, this similar question had already answered online. So please try to search on the question before we post question on the website, and posted the specific descriptions on what we had tried and what we trying to approach from this code. 
