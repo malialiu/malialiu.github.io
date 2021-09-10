@@ -13,6 +13,8 @@ Since the internet development rapidly, many people will communicate online incl
 Before asking a question, we should think like people only have limited time to look at our question, so the title of the question we posted should include the specific summarize question. If possible, try search online to find if there is anyone who have a similiar question with you, check on their solutions, try to solve it by yourself before asking question. If no relevant solutions online, we could write our specific question with part of the code that directly relates to the questions. Also, we should includes all relevant tags and respond those people who answer our question. Check all the words and code before post a question. 
 
 ## Question Examples
+<img src="/images/f21e67eddc238fd293282f4f458398f.png" data-canonical-src="/images/f21e67eddc238fd293282f4f458398f.png"  height="400" /> <br/>
+
   Question: ["Why does my scanf while loop not exit when consuming newline characters?"](https://stackoverflow.com/questions/36105160/why-does-my-scanf-while-loop-not-exit-when-consuming-newline-characters) <br/>
 
 "This successfully prints all the files. However, the loop never exits. If I take away scanf("%*c"), it does exit, but only the first filename is printed. I would expect the consuming of the newline character will prepare the outer scanf to scan the next filename, which is what it seems to be doing. But after the final filename is scanned, I expect the nested scanf to not scan anything. Then the outer scanf to not scan anything either. And the while loop exits." <br/>
@@ -31,6 +33,7 @@ while (scanf("%[^\n]s", someCharArray) > 0) {
 
 This person did try to solve this question before asking a question, posted the specific code that he/she had a question on which will be while loop doesn't stopped as what it suppose to scanned all the filename. He/she described what he/she tried to what should this code achieved, which will be take off the scanf("%*c") here. Also this person added the relevant tags and respond the answers. <br/>
 
-<img src="/images/de623701af7d77085fdae2cb1798fa4.png" data-canonical-src="/images/de623701af7d77085fdae2cb1798fa4.png"  height="400" />
+<img src="/images/de623701af7d77085fdae2cb1798fa4.png" data-canonical-src="/images/de623701af7d77085fdae2cb1798fa4.png"  height="400" /> <br/>
+
   Question: [Implementing swing in jdk 1.8 using eclipse](https://stackoverflow.com/questions/30748998/implementing-swing-in-jdk-1-8-using-eclipse) <br/>
 This person posted the specific error that came out from he/she's code, but there is not much informations on the question, so it makes some confusions to people when they try to answer this question. And this person added the relevant tags and respond the answers. However, this similar question had already answered online. So please try to search on the question before we post question on the website, and posted the specific descriptions on what we had tried and what we trying to approach from this code. 
