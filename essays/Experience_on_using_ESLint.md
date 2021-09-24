@@ -12,7 +12,7 @@ labels:
   
   <img src="/images/screen2.png" data-canonical-src="/images/screen2.png" width="800" height="450" />
   <br\>
-  While using ESLint in IntelliJ, it does help a lot with coding speed because I always missing a semicolon or having typos on my code. Some complier would not tell the problems like that, so it might takes a lot of time to figure out what is missing in my code. ESLint avoid the potential bugs like disallow unreachable code after "return", "throw", "continue", and "break" statements, or states out the variables that your not using with red lines. ESLint can also checks and fixes the problem automatically, so many errors can be avoid by that. People can also makes their own rules by create an EsLint plugin. <br/>
+  While using ESLint in IntelliJ, it does help a lot with coding speed because I always missing a semicolon or having typos on my code. Some complier would not tell the problems like that, so it might takes a lot of time to figure out what is missing in my code. ESLint avoid the potential bugs like disallow unreachable code after "return", "throw", "continue", and "break" statements, or states out the variables that your not using with red lines. ESLint can also checks and fixes the problem automatically, so many errors can be avoid by that. People can also makes their own rules by create an ESLint plugin. <br/>
   
   <img src="/images/screen3.png" data-canonical-src="/images/screen3.png" width="800" height="450" />
 
