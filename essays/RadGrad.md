@@ -9,7 +9,7 @@ labels:
 ---
 ## My Experience on RadGrad
 
-RadGrad is a website that helps students to learn more informations to determine their degree paths or career paths. It offers much information that is useful to build on a student's academic path or career paths includes interests, courses, and extracurricular activities. After finding out the interests corresponding to the courses and extracurricular, students will know better about their career paths. There is much information about extracurricular activities includes programs and projects. There will be contact information for the programs and projects, it will be helpful for people who try to look for opportunities to get some experiences by solving real life problems. <br/>
+RadGrad is a website that helps students to learn more informations to determine their degree paths or career paths. It offers much information that is useful to build on a student's academic path or career paths includes interests, courses, and extracurricular activities. After finding out the courses and extracurricular activities corresponding their interests, students will know better about their career paths. There is much information about extracurricular activities includes programs and projects. There will be contact information for the programs and projects, it will be helpful for people who try to look for opportunities to get some experiences by solving real life problems. <br/>
 
 <img src="/images/radgrad1.png" data-canonical-src="/images/radgrad1.png" width="800" height="350" />
 <img src="/images/career.png" data-canonical-src="/images/career.png"  height="350" />
