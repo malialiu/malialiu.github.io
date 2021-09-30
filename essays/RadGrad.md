@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Experiences in RadGrad
+title: My Experience on RadGrad
 date: 2021-09-09
 labels:
   - RadGrad
   - Student
 ---
+## My Experience on RadGrad
 
 RadGrad is a website that helps students to learn more informations to determine their degree paths or career paths. It offers much information that is useful to build on a student's academic path or career paths includes interests, courses, and extracurricular activities. After finding out the interests corresponding to the courses and extracurricular, students will know better about their career paths. There is much information about extracurricular activities includes programs and projects. There will be contact information for the programs and projects, it will be helpful for people who try to look for opportunities to get some experiences by solving real life problems. <br/>
 
