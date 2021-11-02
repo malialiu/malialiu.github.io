@@ -14,7 +14,7 @@ labels:
 
 <h2>Mockup Page Ideas:</h2>
 <h3>Visitor:</h3>
-  Main page, Sign in/sign out page, Information page for each course 
+  Main page, Sign in/sign out page, Information page for each course
   <h3>Admin:</h3>
   Main page, Sign in/sign out page, Information page for each course (Edit page, access to delete comments) 
     
