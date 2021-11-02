@@ -13,14 +13,18 @@ labels:
 <h3>Solution:</h3> Create an app that provide students from previous year to leave a comment for every other students who might interest to the class to view. And also rate the difficulty level and how tight the course might be from (1-10) and state the specific reason at least 50 words.
 
 <h2>Mockup Page Ideas:</h2>
-  <h3>Visitor:</h3>
-    -Main page <br/>
-    -Sign in/sign out page <br/>
-    -Information page for each course <br/>
+<h3>Visitor:</h3>
+  -Main page 
+  <br/>-Sign in/sign out page 
+  <br/>
+  -Information page for each course 
   <h3>Admin:</h3>
-    -Main page <br/>
-    -Sign in/sign out page <br/>
-    -Information page for each course (Edit page, access to delete comments) <br/>
+    -Main page 
+    <br/>
+    -Sign in/sign out page 
+    <br/>
+    -Information page for each course (Edit page, access to delete comments) 
+    <br/>
     
 <h2>Use Case Ideas:</h2>
   -Students will need to login to verify they did take the class before. Then they will have a page shows what kind of class they avaliable to leave a comment.<br/>
