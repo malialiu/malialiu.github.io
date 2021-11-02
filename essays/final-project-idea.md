@@ -14,7 +14,7 @@ labels:
 <img src="/images/asample.png" data-canonical-src="/images/asample.png"  height="400" />
 <h2>Mockup Page Ideas:</h2>
 <h3>Visitor:</h3>
-  Main page, Sign in/sign out page, Information page for each course
+  Main page, Sign in/sign out page, Information page for each course, information page for student who want to leave a message/comment(this page will require student to rate the difficulty level, average time spend for this class, and comment at least 50 words.
   <h3>Admin:</h3>
   Main page, Sign in/sign out page, Information page for each course (Edit page, access to delete comments) 
     
