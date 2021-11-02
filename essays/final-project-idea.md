@@ -9,7 +9,7 @@ labels:
 ---
 <h1>Class Selection</h1> 
 <h2>Overview:</h2>
-<h3>Problem:</h3> Students having hard time to decide what class they will like to register for every semester.
+<h3>Problem:</h3> Students having hard time to decide what class they will like to register for every semester, because they have no idea what the class will be and how much time they will need to cost at least for one course.
 <h3>Solution:</h3> Create an app that provide students from previous year to leave a comment for every other students who might interest to the class to view. And also rate the difficulty level and how tight the course might be from (1-10) and state the specific reason at least 50 words.
 
 <h2>Mockup Page Ideas:</h2>
