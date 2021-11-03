@@ -34,3 +34,4 @@ Create an app for students can able to check on the deadline on each day (like c
   
 ## Beyond The Basics
   - All the deadlines on Laulima can shows on calendar page once they login with @hawaii.edu
+  - Avoid procrastination mode: pushing all the deadline on calendar page one day before.
