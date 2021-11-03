@@ -7,21 +7,29 @@ labels:
   - Software Engineering
   - Meteor
 ---
-<h1>Class Selection</h1> 
-<h2>Overview:</h2>
-<h3>Problem:</h3> Some students having hard time to decide what class they will like to register for every semester, because they have no idea what the class will be and how much time they will need to cost at least for one course.
-<h3>Solution:</h3> Create an app that provide students from previous year to leave a comment for every other students who might interest to the class to view. And also rate the difficulty level and how tight the course might be from (1-10) and state the specific reason at least 50 words.
-<img src="/images/asample.png" data-canonical-src="/images/asample.png"  height="400" />
-<h2>Mockup Page Ideas:</h2>
-<h3>Visitor:</h3>
-  Main page, Sign in/sign out page, Information page for each course, information page for student who want to leave a message/comment(this page will require student to rate the difficulty level, average time spend for this class, and comment at least 50 words.
-  <h3>Admin:</h3>
-  Main page, Sign in/sign out page, Information page for each course (Edit page, access to delete comments) 
+# Student Planner
+## Overview:
+### Problem: 
+Some students are having hard time on manage their time with all the deadline of assignments, labs, projects, etc, because they need to check on the deadline frequently for different classes to make sure they didn't forget it. 
+### Solution: 
+Create an app for students can able to check on the deadline on each day (like calendar), and reminds them one day before the deadline. (similiar to laulima but just the calendar that generate all the courses that student taking on one calendar.)
+## Mockup Page Ideas:
+### Visitor:
+  - Main page 
+  - Sign in/out page 
+  - Calendar page 
+  - Setting personal event page
+  - Reminder setting page 
+### Admin:
+  - Main page
+  - Sign/out page
+  - Calendar page 
+  - Calendar page (for specific course)
+  - Setting deadline page
     
-<h2>Use Case Ideas:</h2>
-  -Students will need to login to verify they did take the class before. Then they will have a page shows what kind of class they avaliable to leave a comment.<br/>
-  -Admin will need to login to see all the comments for all the courses, they will not know which student leave those comment, but have access to delete those improper comments.<br/>
+## Use Case Ideas:
+  - Students will need to login to look at their calendar and add new event on the calendar.
+  - Admin will need to login to view all the course they have and setting the deadline.
   
-<h2> Beyond The Basics </h2>
--shows how often the course offer.<br/>
--shows how many hours student might need to cost if they select the courses they plan to select in cart.
+## Beyond The Basics
+  - All the deadlines on Laulima can shows on calendar page once they login with @hawaii.edu
