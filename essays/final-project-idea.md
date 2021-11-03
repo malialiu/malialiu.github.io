@@ -8,7 +8,6 @@ labels:
   - Meteor
 ---
 # Daily Planner
-Author: Malia Liu
 ## Overview:
 ### Problem: 
 Some students are having hard time on manage their time with all the deadline of assignments, labs, projects, etc, because they need to check on the deadline frequently for different classes to make sure they didn't forget it. 
