@@ -24,7 +24,6 @@ Create an app for students can able to check on the deadline on each day (like c
 ### Admin:
   - Main page
   - Sign/out page
-  - Calendar page 
   - Calendar page (for specific course)
   - Setting deadline page
     
