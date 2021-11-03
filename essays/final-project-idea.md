@@ -20,6 +20,7 @@ Create an app for students can able to check on the deadline on each day (like c
   - Calendar page 
   - Setting personal event page
   - Reminder setting page 
+  
 ### Admin:
   - Main page
   - Sign/out page
