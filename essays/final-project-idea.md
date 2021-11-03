@@ -13,7 +13,7 @@ Author: Malia Liu
 ### Problem: 
 Some students are having hard time on manage their time with all the deadline of assignments, labs, projects, etc, because they need to check on the deadline frequently for different classes to make sure they didn't forget it. 
 ### Solution: 
-Create an app for students can able to check on the deadline on each day (like calendar), and reminds them one day before the deadline. (similiar to laulima but just the calendar that generate all the courses that student taking on one calendar.)
+Create a website for students can able to check on the deadline on each day (like calendar), and reminds them one day before the deadline. (similiar to laulima but just the calendar that generate all the courses that student taking on one calendar.)
 ## Mockup Page Ideas:
 ### Visitor:
   - Main page 
