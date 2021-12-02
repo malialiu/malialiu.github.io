@@ -13,5 +13,7 @@ As we learning so far, we will notice that many problems we have right can be so
 
 # Template Method (Behavioral Patterns)
 Template method is one of the design pattern that categorized under the behavioral patterns. For example, you want to build a different webpage, and you already having the template below. 
-<img src="/images/f21e67eddc238fd293282f4f458398f.png"  height="400" /> <br/> 
-Then you can use the same code from template's code to build a page, but change whatever you want this page looks like.
+<img src="/images/template.png"  height="400" /> <br/> 
+Then you can use the same code from template's code to build a page, but change whatever you want this page looks like. And here is what I did by changing the code in the home page. 
+<img src="/images/uhmclub.png"  height="400" /> <br/> 
+To do that, we just need to change the code in the file that build the home page. In this example, we just change the color from black to white, the menu item in navigation bar and added a logo. There change the body background in css file and change the color of footer.
