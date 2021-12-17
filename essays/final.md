@@ -7,8 +7,6 @@ labels:
   - Software Engineering
   - Learning
 ---
-
-# Getting Start on Learning Software Engineering
 I haven't got many ideas about software engineering before I take the course about software engineering. After this course I learned about the basics for build a website and team work in programming project. Because most of the classes I took before this software engineering class doesn't have much opportunities for the team work. So it gained more experience about how software engineers might work in real life. There are many tools/things that are helpful to build a website by myself or work as team, which includes github, robo3T, intelliJ, testcafe, meteor, react, and etc.
 
 The first thing we might want to learn to build a website will be html, css, and JavaScript. Html and css are using for building the user interface, and JavaScript will be using for functionality. And there is a library that are helpful for JavaScript which is underscore.js. People can use it by add the url provided from the website [http://underscorejs.org/#](http://underscorejs.org/#) to fill in the src ```<script src="..."></script>``` in html file. Then we can using _.each instead of writing a whole for loop or while loop.
