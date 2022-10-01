@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Computer Vision",
+      "name": "Java",
       "keywords": [
       ]
     }
@@ -50,7 +50,6 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "JavaScript"
       ]
@@ -66,12 +65,17 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "Honolulu Community College, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2023)",
+      "startDate": "2019-08",
+      "endDate": "2021-12"
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2021-01-11",
       "endDate": "Present",
-      "gpa": "",
       "courses": [
       ]
     }
