@@ -66,7 +66,7 @@
   "education": [
     {
       "institution": "Honolulu Community College, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Libral Arts",
       "startDate": "2019-08",
       "endDate": "2021-12"
     },
@@ -80,4 +80,20 @@
       ]
     }
   ],
+  "Course Work": [
+    {
+      "name": "ICS 314 (web application in JavaScript, html, css)",
+      "keywords": [
+        "Build a website that user can find all the clubs in UH Manoa/add their own club.",
+        {"name": "The Club For You", "url": "https://the-club-for-you.github.io"} 
+      ]
+    },
+    {
+      "name": "ICS 466 (mobile application)",
+      "keywords": [
+        "UI design of mobile application",
+        "Android Studio (Java, MySql)",
+        {"build an application to insert/find a parking stall"} 
+      ]
+    },
 }
