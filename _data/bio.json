@@ -65,14 +65,14 @@
   ],
   "education": [
     {
-      "institution": "Honolulu Community College, Honolulu, HI",
+      "institution": "Honolulu Community College, Honolulu, HI"
       "area": "Libral Arts",
       "startDate": "2019-08",
       "endDate": "2021-12"
     },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science (expected graduate in Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2021-01-11",
       "endDate": "Present",
@@ -80,21 +80,24 @@
       ]
     }
   ],
-  "work": [
-    {
-      "name": "ICS 314 (web application in JavaScript, html, css)",
-      "keywords": [
-        "Build a website that user can find all the clubs in UH Manoa/add their own club.",
-        "https://the-club-for-you.github.io"
-      ]
-    },
-    {
-      "name": "ICS 466 (mobile application)",
-      "keywords": [
-        "UI design of mobile application",
-        "Android Studio (Java, MySql)",
-        "build an application to insert/find a parking stall"
-       ]
-    },
-   ],
+  "projects": [{
+    "name": "The Club For You",
+    "description": "Build a website that user can find all the clubs in UH Manoa/add their own club.",
+    "keywords": [
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ],
+    "url": "https://the-club-for-you.github.io",
+    "type": "website"
+  }],
+  [{
+    "name": "Spot a Stall",
+    "description": "Build an mobile application to insert/find a parking stall.",
+    "keywords": [
+      "Java",
+      "MySql"
+    ],
+    "type": "mobile application"
+  }]
 }
