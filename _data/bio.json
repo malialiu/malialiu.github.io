@@ -80,16 +80,22 @@
       ]
     }
   ],
-  "projects": [
-    {
-    "name": "The Club For You",
-    "description": "Build a website that user can find all the clubs in UH Manoa/add their own club.",
-    "keywords": [
-      "HTML",
-      "JavaScript",
-      "CSS"
+  "projects": [{
+    "name": "Project",
+    "description": "Description…",
+    "highlights": [
+      "Won award at AIHacks 2016"
     ],
-    "url": "https://the-club-for-you.github.io",
-    "type": "website"
-  }]
+    "keywords": [
+      "HTML"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "url": "https://project.com/",
+    "roles": [
+      "Team Lead"
+    ],
+    "entity": "Entity",
+    "type": "application"
+  }],
 }
