@@ -80,7 +80,8 @@
       ]
     }
   ],
-  "projects": [{
+  "projects": [
+    {
     "name": "The Club For You",
     "description": "Build a website that user can find all the clubs in UH Manoa/add their own club.",
     "keywords": [
@@ -99,5 +100,6 @@
       "MySql"
     ],
     "type": "mobile application"
-  }]
+  }
+  ]
 }
