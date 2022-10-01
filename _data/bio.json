@@ -90,8 +90,8 @@
     ],
     "url": "https://the-club-for-you.github.io",
     "type": "website"
-  }],
-  [{
+  },
+  {
     "name": "Spot a Stall",
     "description": "Build an mobile application to insert/find a parking stall.",
     "keywords": [
