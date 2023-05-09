@@ -8,8 +8,6 @@ labels:
   - Learning
 ---
 
-## ICS 414 Reflection
-
 This semester, I learned a new framework called React Bootstrap, which is similar to Semantic UI, a framework I used in ICS 314. During ICS 314, I struggled to handle the mobile view of websites effectively. However, throughout this semester, I was able to improve my UI design for both desktop and mobile views. Additionally, I learned how to upload and delete images using Cloudinary. <br/>
 
 While working on the "add faculty" feature, I encountered some challenges. I wasn't able to use the same method as my classmates to add faculty to the collection. They used the Promise and validate method to insert, update, and remove data from the collection. However, when I used that method, the data and collection name I passed to the method disappeared. After some time, I decided to use Meteor method and check function to insert and validate faculty data in the collection. <br/>
@@ -20,4 +18,4 @@ We did face some issues with tests towards the end. When running tests on Github
 
 Our team had weekly meetings, and we also used class time to discuss and work on the project. We created milestones, discussions, and issues to list all the features we needed for the website. We would take any issue we wanted to work on from the issues list and assign it to ourselves. We also conducted code reviews, and every team member would comment and provide suggestions for the code we reviewed together. <br/>
 
-The most important lessons I learned from this project were teamwork and project management. If we were to do the project again, as we discussed in our group, we believe we could create a better database architecture. <br/>
+The most important lessons I learned from this project were teamwork and project management. If we were to do the project again, as we discussed in our group, we believe we could create a better database architecture. <br/> <br/> <br/>
