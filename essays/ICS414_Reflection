@@ -1,5 +1,4 @@
 ---
-
 layout: essay
 type: essay
 title: ICS 414 Reflection
@@ -7,10 +6,9 @@ date: 2023-05-08
 labels:
   - Software Engineering
   - Learning
-  
 ---
 
-# ICS 414 Reflection
+## ICS 414 Reflection
 
 This semester, I learned a new framework called React Bootstrap, which is similar to Semantic UI, a framework I used in ICS 314. During ICS 314, I struggled to handle the mobile view of websites effectively. However, throughout this semester, I was able to improve my UI design for both desktop and mobile views. Additionally, I learned how to upload and delete images using Cloudinary. <br/>
 
